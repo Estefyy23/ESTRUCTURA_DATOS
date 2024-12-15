@@ -1,0 +1,14 @@
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\bin\Debug\net9.0\Array_Matriz_Estefi.exe
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\bin\Debug\net9.0\Array_Matriz_Estefi.deps.json
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\bin\Debug\net9.0\Array_Matriz_Estefi.runtimeconfig.json
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\bin\Debug\net9.0\Array_Matriz_Estefi.dll
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\bin\Debug\net9.0\Array_Matriz_Estefi.pdb
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\obj\Debug\net9.0\Array_Matriz_Estefi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\obj\Debug\net9.0\Array_Matriz_Estefi.AssemblyInfoInputs.cache
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\obj\Debug\net9.0\Array_Matriz_Estefi.AssemblyInfo.cs
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\obj\Debug\net9.0\Array_Matriz_Estefi.csproj.CoreCompileInputs.cache
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\obj\Debug\net9.0\Array_Matriz_Estefi.dll
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\obj\Debug\net9.0\refint\Array_Matriz_Estefi.dll
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\obj\Debug\net9.0\Array_Matriz_Estefi.pdb
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\obj\Debug\net9.0\Array_Matriz_Estefi.genruntimeconfig.cache
+C:\Users\Guill\source\repos\Array_Matriz_Estefi\Array_Matriz_Estefi\obj\Debug\net9.0\ref\Array_Matriz_Estefi.dll
