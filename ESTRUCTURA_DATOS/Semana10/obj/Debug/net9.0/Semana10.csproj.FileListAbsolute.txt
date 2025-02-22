@@ -1,0 +1,14 @@
+C:\Users\Guill\source\repos\Semana10\bin\Debug\net9.0\Semana10.exe
+C:\Users\Guill\source\repos\Semana10\bin\Debug\net9.0\Semana10.deps.json
+C:\Users\Guill\source\repos\Semana10\bin\Debug\net9.0\Semana10.runtimeconfig.json
+C:\Users\Guill\source\repos\Semana10\bin\Debug\net9.0\Semana10.dll
+C:\Users\Guill\source\repos\Semana10\bin\Debug\net9.0\Semana10.pdb
+C:\Users\Guill\source\repos\Semana10\obj\Debug\net9.0\Semana10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guill\source\repos\Semana10\obj\Debug\net9.0\Semana10.AssemblyInfoInputs.cache
+C:\Users\Guill\source\repos\Semana10\obj\Debug\net9.0\Semana10.AssemblyInfo.cs
+C:\Users\Guill\source\repos\Semana10\obj\Debug\net9.0\Semana10.csproj.CoreCompileInputs.cache
+C:\Users\Guill\source\repos\Semana10\obj\Debug\net9.0\Semana10.dll
+C:\Users\Guill\source\repos\Semana10\obj\Debug\net9.0\refint\Semana10.dll
+C:\Users\Guill\source\repos\Semana10\obj\Debug\net9.0\Semana10.pdb
+C:\Users\Guill\source\repos\Semana10\obj\Debug\net9.0\Semana10.genruntimeconfig.cache
+C:\Users\Guill\source\repos\Semana10\obj\Debug\net9.0\ref\Semana10.dll
