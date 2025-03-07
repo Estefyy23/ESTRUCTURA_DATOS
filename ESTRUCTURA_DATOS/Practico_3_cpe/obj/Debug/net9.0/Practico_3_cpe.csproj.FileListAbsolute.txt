@@ -1,0 +1,15 @@
+C:\Estefani\Practico_3_cpe\bin\Debug\net9.0\Practico_3_cpe.exe
+C:\Estefani\Practico_3_cpe\bin\Debug\net9.0\Practico_3_cpe.deps.json
+C:\Estefani\Practico_3_cpe\bin\Debug\net9.0\Practico_3_cpe.runtimeconfig.json
+C:\Estefani\Practico_3_cpe\bin\Debug\net9.0\Practico_3_cpe.dll
+C:\Estefani\Practico_3_cpe\bin\Debug\net9.0\Practico_3_cpe.pdb
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\Practico_3_cpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\Practico_3_cpe.AssemblyInfoInputs.cache
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\Practico_3_cpe.AssemblyInfo.cs
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\Practico_3_cpe.csproj.CoreCompileInputs.cache
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\Practico_3_cpe.sourcelink.json
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\Practico_3_cpe.dll
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\refint\Practico_3_cpe.dll
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\Practico_3_cpe.pdb
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\Practico_3_cpe.genruntimeconfig.cache
+C:\Estefani\Practico_3_cpe\obj\Debug\net9.0\ref\Practico_3_cpe.dll
